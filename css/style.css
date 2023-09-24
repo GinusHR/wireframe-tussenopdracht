@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Press+Start+2P&display=swap');
+
+body {
+    margin: 0px;
+}
+
+
+nav {
+    background-color: #a8e600;
+    padding: 20px;
+    border-bottom: solid 3px black;
+    gap: 7px;
+    font-family: 'Open Sans', sans-serif;
+    color: black;
+
+}
+
+.links {
+    display: flex;
+    gap: 60px;
+
+
+
+}
+
+.rik {
+    display: flex;
+    gap: 20px;
+}
+
+
+.logo {
+    width: 60px;
+    border-radius: 250px;
+}
+
+section {
+    display: flex;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.product {
+    gap: 70px;
+    padding: 40px;
+
+}
+
+
+div.beschrijving {
+    border: solid 2px black;
+    width: 400px;
+    padding: 5px;
+}
+
+:hover.bestellen {
+    background-color: #e7961e;
+    color: black;
+}
+
+.bestellen {
+    background-color: #3434c1;
+    border: solid 5px #15154d;
+    border-radius: 30px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+
+section.omschrijving {
+    border-top: solid 3px black;
+    gap: 40px;
+    margin: 100px 0px;
+}
+
+.min {
+    margin-left: 30px;
+}
+
+.plus {
+    border: solid 2px black;
+    width: 400px;
+    padding: 5px;
+    margin: 0px 40px;
+
+}
+
+
+.text {
+    border: solid 2px #b3ebff;
+    margin: 20px;
+    background-color: #b3ebff;
+    margin-top: 40px;
+    border-radius: 30px;
+    padding: 10px;
+}
+
+img.acti {
+    border: solid 1px black;
+}
+
+.product {
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.fotos {
+    display: flex;
+    gap: 100px;
+    margin-left: 200px;
+    justify-content: center;
+
+}
+
+.game {
+    width: 150px;
+}
+
+.tekst {
+    border: solid 4px black;
+    width: 150px;
+}
+
+
+
+
+
+
+
+footer {
+    border-top: solid 3px black;
+    padding: 20px;
+    display: flex;
+    gap: 7px;
+    font-family: 'Open Sans', sans-serif;
+    background-color: #a8e600;
+    justify-content: center;
+}
